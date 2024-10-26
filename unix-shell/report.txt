@@ -1,0 +1,26 @@
+This assignment was done in a group consisting of Anthony Phelps and Michael Iadisernia.
+
+Michael implemented the single_command function as well as all of the functions necessary for handling background processes
+such as adding, checking and printing them.
+Anthony implemented the multiple_commands function that can handle single pipe commands, multiple piped commands,
+and multiple commands including input/output redirection.
+ 
+
+ChatGPT was used to help us with this assignment in accordance with the rules of using generative AI 
+in this course stated in the course outline. It was mostly used to help speed up implementing functionalities in C
+because neither group members have much experience coding in C.
+
+We also used geeksforgeeks.org to see examples of how to use many of the system calls in this assignemnet such as pipe, dup2,
+open and close and the parameters that have to be passes to those system calls.
+
+Prompts given to ChatGPT:
+
+1) "I need to add to a skeleton shell program a built-in command jobs which lists the processes running in the background of the shell
+ with their pid and the command launched.". ChatGPT suggested using a linked list to keep track of processes and also wrote the code for 
+ typedef struct bg_process as well as the check_bg_process function.
+
+ 2) "How would I make my shell be able to handle piped commands?".
+ This led to ChatGPT explaining the logic of the multiple_commands function and the conditions that had to be checked making it easier for 
+ us to implement the function.
+ 
+    

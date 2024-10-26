@@ -1,0 +1,3 @@
+/Users/plago/CLionProjects/unix-shell/cmake-build-debug/CMakeFiles/unix_shell.dir
+/Users/plago/CLionProjects/unix-shell/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/plago/CLionProjects/unix-shell/cmake-build-debug/CMakeFiles/rebuild_cache.dir

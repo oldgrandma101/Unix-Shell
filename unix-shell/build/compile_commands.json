@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/Users/oldgrandma101/Desktop/unix-shell/build",
+  "command": "/usr/bin/clang   -g -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/unix_shell.dir/main.c.o -c /Users/oldgrandma101/Desktop/unix-shell/main.c",
+  "file": "/Users/oldgrandma101/Desktop/unix-shell/main.c",
+  "output": "CMakeFiles/unix_shell.dir/main.c.o"
+},
+{
+  "directory": "/Users/oldgrandma101/Desktop/unix-shell/build",
+  "command": "/usr/bin/clang   -g -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/unix_shell.dir/parser.c.o -c /Users/oldgrandma101/Desktop/unix-shell/parser.c",
+  "file": "/Users/oldgrandma101/Desktop/unix-shell/parser.c",
+  "output": "CMakeFiles/unix_shell.dir/parser.c.o"
+},
+{
+  "directory": "/Users/oldgrandma101/Desktop/unix-shell/build",
+  "command": "/usr/bin/clang   -g -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/unix_shell.dir/utils.c.o -c /Users/oldgrandma101/Desktop/unix-shell/utils.c",
+  "file": "/Users/oldgrandma101/Desktop/unix-shell/utils.c",
+  "output": "CMakeFiles/unix_shell.dir/utils.c.o"
+}
+]
